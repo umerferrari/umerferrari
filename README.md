@@ -78,5 +78,5 @@
 <p align="left">
   <a href="https://linkedin.com/in/umerferrari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:securedoorstudio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=firefox&logoColor=white"/></a>
+<!--   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=firefox&logoColor=white"/></a> -->
 </p>
